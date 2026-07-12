@@ -32,5 +32,5 @@ The pipeline is orchestrated using Apache Airflow with the following tasks:
 ## 1. Airflow DAG Execution
 <img width="1897" height="896" alt="Screenshot 2026-07-12 042833" src="https://github.com/user-attachments/assets/a848ab68-b956-4839-84e1-b6b486bfa922" />
 
-
-
+## 2. Snowflake Validation
+<img width="1912" height="881" alt="Screenshot 2026-07-12 042940" src="https://github.com/user-attachments/assets/02c2a745-6983-4891-953c-ce7648d481c9" />
